@@ -55,9 +55,3 @@ Você pode baixar o projeto de duas maneiras:
     npm run start
     ```
    As coordenadas calculadas serão exibidas no console, indicando os valores corretos para prosseguir com o Easter Egg.
-
-## 🤝 Contribuição
-Sinta-se à vontade para abrir issues ou contribuir com sugestões e melhorias. Este repositório foi feito com o intuito de facilitar a comunidade!
-
-## 📜 Licença
-Este projeto é licenciado sob a MIT License. Para mais detalhes, veja o arquivo [LICENSE](LICENSE).
