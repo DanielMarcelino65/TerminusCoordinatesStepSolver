@@ -34,6 +34,9 @@ Você pode baixar o projeto de duas maneiras:
 2. Extraia o conteúdo do ZIP em uma pasta de sua escolha.
 3. Abra o terminal, navegue até a pasta extraída e instale as dependências.
 
+## 🖼️ Referência Visual
+No repositório, incluí uma imagem chamada `respectiveValues.png`, que mostra os símbolos e seus respectivos valores utilizados no cálculo das coordenadas. Consulte esta imagem para identificar os valores corretos dos desenhos que você verá no jogo, e utilize-os como base para o cálculo.
+
 ## 🚀 Uso
 1. No arquivo principal, você pode definir as coordenadas iniciais do enigma:
 
@@ -55,3 +58,7 @@ Você pode baixar o projeto de duas maneiras:
     npm run start
     ```
    As coordenadas calculadas serão exibidas no console, indicando os valores corretos para prosseguir com o Easter Egg.
+
+## 📜 Créditos
+A associação entre símbolos e valores foi criada por **Hayashii** e apresentada em seu vídeo tutorial sobre o Easter Egg do mapa Terminus. A imagem incluída no repositório foi obtida a partir de um print do vídeo dele.
+Vídeo Tutorial: https://youtu.be/sIKhlRIKTIk?si=M-RbXn8nKKmVYY-C
